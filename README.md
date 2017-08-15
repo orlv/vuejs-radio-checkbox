@@ -18,6 +18,10 @@ npm i -D vuejs-radio-checkbox
 import RadioCheckbox from 'vuejs-radio-checkbox'
 ```
 ```
+components: {
+    RadioCheckbox
+}
+
 data: function () {
   value: '',
   inputs: [
