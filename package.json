@@ -1,0 +1,16 @@
+{
+  "name": "vuejs-radio-checkbox",
+  "version": "1.0.0",
+  "description": "Vue checkbox with radio behavior",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/orlv/vuejs-radio-checkbox.git"
+  },
+  "author": "Oleg Orlov <oleg.orlv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orlv/vuejs-radio-checkbox/issues"
+  },
+  "homepage": "https://github.com/orlv/vuejs-radio-checkbox#readme"
+}
