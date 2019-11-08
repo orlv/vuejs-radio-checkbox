@@ -11,7 +11,7 @@
 
 <script>
   export default {
-    data: function () {
+    data () {
       return {
         inputsList: []
       }
@@ -26,14 +26,14 @@
     },
 
     watch: {
-      value: function (value) {
+      value (value) {
         this.inputsList.length = 0
         this.inputsList.push(value)
       }
     },
 
     methods: {
-      click: function (value) {
+      click (value) {
         if (value === this.value) {
           this.$emit('input', undefined)
         } else {

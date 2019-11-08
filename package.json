@@ -1,6 +1,6 @@
 {
   "name": "vuejs-radio-checkbox",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Vue checkbox with radio behavior",
   "main": "index.js",
   "repository": {
